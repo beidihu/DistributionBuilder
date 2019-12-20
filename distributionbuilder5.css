@@ -43,12 +43,13 @@
 
 .distbuilder > .labels {
     background-color: steelblue;
-    height: 50px;
+    height: 30px;
     width: 100%;
 }
 
 .distbuilder > .labels > .distrow {
     display: flex;
+    height: 20px;
     width: 100%;
 }
 
