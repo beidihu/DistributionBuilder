@@ -30,9 +30,9 @@
     margin-bottom: 1px;
     height: 10px;
     width: 10px;
-    border: 1px solid white;
-    border-radius: 10%;
-    align-self: center;
+    border: 1px solid black;
+    border-radius: 50%;
+    align-self: left;
 }
 
 .distbuilder > .grid > .distrow > .filled > .ball  {
