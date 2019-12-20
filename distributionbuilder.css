@@ -28,7 +28,7 @@
 
 .distbuilder > .grid > .distrow > .cell > .ball {
     margin-bottom: 1px;
-    height: 10px;
+    height: 1px;
     width: 10px;
     border: 1px solid white;
     border-radius: 50%;
