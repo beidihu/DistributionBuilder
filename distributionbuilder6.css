@@ -44,6 +44,7 @@
 .distbuilder > .labels {
     background-color: steelblue;
     /* height: 50px;*/
+    line-height: normal;
     width: 100%;
 }
 
