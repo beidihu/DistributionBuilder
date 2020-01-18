@@ -43,7 +43,7 @@
 
 .distbuilder > .labels {
     background-color: steelblue;
-    /* height: 50px;*/
+    height: 30px;
     line-height: normal;
     width: 100%;
 }
